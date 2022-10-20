@@ -1,4 +1,4 @@
-<img src="../in2being-edit.png" width="512">
+<img src="https://github.com/in2being/.github/raw/main/in2being-edit.png" width="512">
 
 __in2being helps individuals and businesses bring their medical devices to market.__
 
